@@ -8,7 +8,7 @@
 # Site Settings
 title                    : "Wenfeng Song"
 description              : "Associate Professor at Beijing Information Science and Technology University, specializing in digital human generation and reconstruction with a particular emphasis on medical applications."
-repository               : "buaaswf/wenfengsong.github.io"
+repository               : "buaaswf/wenfengsong"
 google_scholar_stats_use_cdn : true
 
 # google analytics
