@@ -31,14 +31,14 @@ My research interests include virtual reality and computer vision with medical a
 - *2023.01*: &nbsp;🎉🎉 One paper accepted to TPAMI.
 
 
-# 📝Selected Publications <a ref="https://scholar.google.com.hk/citations?hl=zh-CN&user=BDfZbbEAAAAJ">[Full list]</a> 
+# 📝Selected Publications [[Full list](https://scholar.google.com.hk/citations?hl=zh-CN&user=BDfZbbEAAAAJ)]
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/hoi.PNG' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [HOIAnimator: Generating Text-prompt Human-object Animations using Novel Perceptive Diffusion Models]()
 
-**Wenfeng Song**, Xinyu Zhang, Shuai Li*, Yang Gao, Aimin Hao, Xia Hou, Chenglizhao Chen, Ning Li, Hong Qin^†^
+**Wenfeng Song**, Xinyu Zhang, Shuai Li*, Yang Gao, Aimin Hao, Xia Hou, Chenglizhao Chen, Ning Li, Hong Qin*
 
 [**Github**](https://zxylinkstart.github.io/HOIAnimator-Web/) 
 </div>
@@ -49,7 +49,7 @@ My research interests include virtual reality and computer vision with medical a
 
 [Arbitrary Motion Style Transfer with Multi-condition Motion Latent Diffusion Model]()
 
-**Wenfeng Song**, Xingliang Jin, Shuai Li*, Chenglizhao Chen†, Aimin Hao, Xia Hou, Ning Li, Hong Qin
+**Wenfeng Song**, Xingliang Jin, Shuai Li*, Chenglizhao Chen*, Aimin Hao, Xia Hou, Ning Li, Hong Qin
 
 [**Github**](https://github.com/XingliangJin/MCM-LDM) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
@@ -61,7 +61,7 @@ My research interests include virtual reality and computer vision with medical a
 
 [Weakly Supervised Multimodal Affordance Grounding for Egocentric Images](https://ojs.aaai.org/index.php/AAAI/article/view/28451)
 
-Lingjing Xu, Yang Gao*, **Wenfeng Song^*^**, Aimin Hao
+Lingjing Xu, Yang Gao*, **Wenfeng Song***, Aimin Hao
 
 [**Github**](https://github.com/xulingjing88/WSMA) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
@@ -85,7 +85,7 @@ Mengke Song,  Linfeng Li, Dunquan Wu, **Wenfeng Song**, Chenglizhao Chen
 
 [Sequential texts driven cohesive motions synthesis with natural transitions](https://openaccess.thecvf.com/content/ICCV2023/html/Li_Sequential_Texts_Driven_Cohesive_Motions_Synthesis_with_Natural_Transitions_ICCV_2023_paper.html)
 
-Shuai Li, Sisi Zhuang, **Wenfeng Song^*^**, Xinyu Zhang, Hejia Chen, Aimin Hao
+Shuai Li, Sisi Zhuang, **Wenfeng Song***, Xinyu Zhang, Hejia Chen, Aimin Hao
 
 [**Github**](https://github.com/Druthrie/ST2M) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
@@ -98,7 +98,7 @@ Shuai Li, Sisi Zhuang, **Wenfeng Song^*^**, Xinyu Zhang, Hejia Chen, Aimin Hao
 
 [FineStyle: Semantic-Aware Fine-Grained Motion Style Transfer with Dual Interactive-Flow Fusion](https://ieeexplore.ieee.org/abstract/document/10269731)
 
-Wenfeng Song, **Xingliang Jin**, Shuai Li*, Chenglizhao Chen, Aimin Hao, Xia Hou
+**Wenfeng Song**, Xingliang Jin, Shuai Li*, Chenglizhao Chen, Aimin Hao, Xia Hou
 
 [**Github**](https://github.com/XingliangJin/Fine-Style) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
@@ -110,7 +110,7 @@ Wenfeng Song, **Xingliang Jin**, Shuai Li*, Chenglizhao Chen, Aimin Hao, Xia Hou
 
 [Automatic generation of 3d scene animation based on dynamic knowledge graphs and contextual encoding](https://link.springer.com/article/10.1007/s11263-023-01839-1)
 
-**Wenfeng Song** , Xinyu Zhang, Yuting Guo, Shuai Li*, Aimin Hao, Hong Qin^†^
+**Wenfeng Song**, Xinyu Zhang, Yuting Guo, Shuai Li*, Aimin Hao, Hong Qin*
 
 [**Github**](https://github.com/ZxyLinkstart/Automatic-Generation-of-3D-Scene-Animation) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
@@ -123,7 +123,7 @@ Wenfeng Song, **Xingliang Jin**, Shuai Li*, Chenglizhao Chen, Aimin Hao, Xia Hou
 
 [Graph Diffusion Convolutional Network for Skeleton Based Semantic Recognition of Two-Person Actions](https://ieeexplore.ieee.org/abstract/document/10023982)
 
-Shuai Li, Xinxue He, **Wenfeng Song^*^** , Aimin Hao, Hong Qin
+Shuai Li, Xinxue He, **Wenfeng Song***, Aimin Hao, Hong Qin
 
 [**Github**]() <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
