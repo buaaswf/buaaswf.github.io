@@ -179,16 +179,8 @@ Shuai Li, Xinxue He, **Wenfeng Song***, Aimin Hao, Hong Qin
 </div>
 
 
-
-
-
-# 🎖 Honors and Awards
-- *2021.10* 
-- *2021.09* 
-
 # 📖 Educations
 - *2015.09- 2020.08*, Ph.D, Beihang University, Beijing
 - *2012.09 - 2015.03*, Master, Beihang University, Beijing
 
-# 💬 Invited Talks
 
