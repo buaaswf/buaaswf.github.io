@@ -38,7 +38,7 @@ My research interests include virtual reality and computer vision with medical a
 
 [HOIAnimator: Generating Text-prompt Human-object Animations using Novel Perceptive Diffusion Models]()
 
-**Wenfeng Song**, Xinyu Zhang, Shuai Li<sup>*</sup>, Yang Gao, Aimin Hao, Xia Hou, Chenglizhao Chen, Ning Li, Hong Qin*
+**Wenfeng Song**, Xinyu Zhang, Shuai Li*, Yang Gao, Aimin Hao, Xia Hou, Chenglizhao Chen, Ning Li, Hong Qin*
 
 [**Github**](https://zxylinkstart.github.io/HOIAnimator-Web/) 
 </div>
