@@ -31,7 +31,7 @@ My research interests include virtual reality and computer vision with medical a
 - *2023.01*: &nbsp;🎉🎉 One paper accepted to TPAMI.
 
 
-# 📝Selected Publications [[Full list](https://scholar.google.com.hk/citations?hl=zh-CN&user=BDfZbbEAAAAJ)]
+# 📝 Publications [[Full list](https://scholar.google.com.hk/citations?hl=zh-CN&user=BDfZbbEAAAAJ)]
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/hoi.PNG' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
