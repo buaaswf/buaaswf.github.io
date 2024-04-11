@@ -154,18 +154,6 @@ Shuai Li, Xinxue He, **Wenfeng Song***, Aimin Hao, Hong Qin
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISMAR 2022</div><img src='images/ismar22.PNG' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Real-time Expressive Avatar Animation Generation based on Monocular Videos](https://ieeexplore.ieee.org/abstract/document/9974484)
-
-**Wenfeng Song**, Xianfei Wang, Yang Gao*, Aimin Hao, Xia Hou
-
-[**Github**](https://github.com/xianfei/SysMocap/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-
-</div>
-</div>
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIP</div><img src='images/tip19.PNG' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
