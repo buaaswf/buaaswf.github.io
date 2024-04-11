@@ -7,7 +7,7 @@ main:
     url: "/#-news"
 
   - title: "Publications"
-    url: "/#-Selected Publications [[Full list](https://scholar.google.com.hk/citations?hl=zh-CN&user=BDfZbbEAAAAJ)]"
+    url: "/#-Selected Publications"
 
   - title: "Educations"
     url: "/#-educations"
