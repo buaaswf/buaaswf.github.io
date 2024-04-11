@@ -17,42 +17,179 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+Welcome to my homepage. I am Song Wenfeng (宋文凤), an Associate Professor at Beijing Information Science and Technology University, specializing in digital human generation and reconstruction with a particular emphasis on medical applications. I earned both my Master's and Doctoral degrees from Beihang University, under the mentorship of Professor [Wang Huafeng]() (王华锋) during my Master's program and Academician [Zhao Qinping](https://ieeexplore.ieee.org/author/37654247900) (赵沁平) during my Doctoral studies. 
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My research interests include virtual reality and computer vision with medical applications (e.g., human-scene interaction, medical image analysis) especially in the field of virtual human reconstruction. The experience in the State Key Laboratory of Virtual Reality Technology and System of Beihang motivates my interest and deep understanding of deep learning on Computer-assisted Diagnosis (CAD). My research domain is virtual reality for medical education and environment perception based on deep learning, including object detection based on image and video including unbalance dataset, depth estimation, person reid, UAV tracking.
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.03*: &nbsp;🎉🎉 Two papers accepted to CVPR 2024.
+- *2023.12*: &nbsp;🎉🎉 One paper accepted to AAAI 2024.
+- *2023.12*: &nbsp;🎉🎉 One paper accepted to TIP.
+- *2023.07*: &nbsp;🎉🎉 One paper accepted to ICCV 2023.
+- *2023.05*: &nbsp;🎉🎉 One paper accepted to TVCG.
+- *2023.05*: &nbsp;🎉🎉 One paper accepted to IJCV.
+- *2023.01*: &nbsp;🎉🎉 One paper accepted to TPAMI.
 
-# 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+# 📝Selected Publications <div ref="https://scholar.google.com.hk/citations?hl=zh-CN&user=BDfZbbEAAAAJ">[Full list]</div> 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/hoi.PNG' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[HOIAnimator: Generating Text-prompt Human-object Animations using Novel Perceptive Diffusion Models]()
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Wenfeng Song**, Xinyu Zhang, Shuai Li*, Yang Gao, Aimin Hao, Xia Hou, Chenglizhao Chen, Ning Li, Hong Qin^†^
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+[**Github**](https://zxylinkstart.github.io/HOIAnimator-Web/) 
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/MCM-LDM.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Arbitrary Motion Style Transfer with Multi-condition Motion Latent Diffusion Model]()
+
+**Wenfeng Song**, Xingliang Jin, Shuai Li*, Chenglizhao Chen†, Aimin Hao, Xia Hou, Ning Li, Hong Qin
+
+[**Github**](https://github.com/XingliangJin/MCM-LDM) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2024</div><img src='images/aaai.PNG' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Weakly Supervised Multimodal Affordance Grounding for Egocentric Images](https://ojs.aaai.org/index.php/AAAI/article/view/28451)
+
+Lingjing Xu, Yang Gao*, **Wenfeng Song^*^**, Aimin Hao
+
+[**Github**](https://github.com/xulingjing88/WSMA) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIP</div><img src='images/tip23.PNG' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Rethinking Object Saliency Ranking: A Novel Whole-Flow Processing Paradigm](https://ieeexplore.ieee.org/abstract/document/10362980)
+
+Mengke Song,  Linfeng Li, Dunquan Wu, **Wenfeng Song**, Chenglizhao Chen
+
+[**Github**](https://github.com/MengkeSong/Saliency-Ranking-Paradigm) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2023</div><img src='images/iccv23.PNG' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Sequential texts driven cohesive motions synthesis with natural transitions](https://openaccess.thecvf.com/content/ICCV2023/html/Li_Sequential_Texts_Driven_Cohesive_Motions_Synthesis_with_Natural_Transitions_ICCV_2023_paper.html)
+
+Shuai Li, Sisi Zhuang, **Wenfeng Song^*^**, Xinyu Zhang, Hejia Chen, Aimin Hao
+
+[**Github**](https://github.com/Druthrie/ST2M) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TVCG</div><img src='images/FineStyle.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[FineStyle: Semantic-Aware Fine-Grained Motion Style Transfer with Dual Interactive-Flow Fusion](https://ieeexplore.ieee.org/abstract/document/10269731)
+
+Wenfeng Song, **Xingliang Jin**, Shuai Li*, Chenglizhao Chen, Aimin Hao, Xia Hou
+
+[**Github**](https://github.com/XingliangJin/Fine-Style) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCV</div><img src='images/ijcv24.PNG' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Automatic generation of 3d scene animation based on dynamic knowledge graphs and contextual encoding](https://link.springer.com/article/10.1007/s11263-023-01839-1)
+
+**Wenfeng Song** , Xinyu Zhang, Yuting Guo, Shuai Li*, Aimin Hao, Hong Qin^†^
+
+[**Github**](https://github.com/ZxyLinkstart/Automatic-Generation-of-3D-Scene-Animation) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI</div><img src='images/tpami23.PNG' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Graph Diffusion Convolutional Network for Skeleton Based Semantic Recognition of Two-Person Actions](https://ieeexplore.ieee.org/abstract/document/10023982)
+
+Shuai Li, Xinxue He, **Wenfeng Song^*^** , Aimin Hao, Hong Qin
+
+[**Github**]() <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">PR</div><img src='images/PR24.PNG' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Dynamic attention augmented graph network for video accident anticipation](https://www.sciencedirect.com/science/article/abs/pii/S0031320323007689)
+
+**Wenfeng Song**, Shuai Li*, Tao Chang, Ke Xie, Aimin Hao, Hong Qin
+
+[**Github**](https://github.com/ZxyLinkstart/DAA-GNN) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMM</div><img src='images/tmm23.PNG' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Joints-Centered Spatial-Temporal Features Fused Skeleton Convolution Network for Action Recognition](https://ieeexplore.ieee.org/abstract/document/10287687)
+
+**Wenfeng Song**, Tangli Chu, Shuai Li*, Nannan Li, Aimin Hao, Hong Qin
+
+[**Github**]() <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISMAR 2022</div><img src='images/ismar22.PNG' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Real-time Expressive Avatar Animation Generation based on Monocular Videos](https://ieeexplore.ieee.org/abstract/document/9974484)
+
+**Wenfeng Song**, Xianfei Wang, Yang Gao*, Aimin Hao, Xia Hou
+
+[**Github**](https://github.com/xianfei/SysMocap/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIP</div><img src='images/tip19.PNG' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Context-interactive CNN for person re-identification](https://ieeexplore.ieee.org/abstract/document/8907836)
+
+**Wenfeng Song**, Shuai Li, Tao Chang, Aimin Hao, Qinping Zhao, Hong Qin
+
+[**Github**]() <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+
+</div>
+</div>
+
+
+
+
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.10* 
+- *2021.09* 
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2015.09- 2020.08*, Ph.D, Beihang University, Beijing
+- *2012.09 - 2015.03*, Master, Beihang University, Beijing
 
 # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
