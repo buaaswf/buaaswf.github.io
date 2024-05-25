@@ -22,14 +22,14 @@ My research interests include virtual reality and computer vision with medical a
 
 
 # 🔥 News
-- *2024.05*: &nbsp;🎉🎉 One paper accepted to TVCG.
-- *2024.03*: &nbsp;🎉🎉 Two papers accepted to CVPR 2024.
-- *2023.12*: &nbsp;🎉🎉 One paper accepted to AAAI 2024.
-- *2023.12*: &nbsp;🎉🎉 One paper accepted to TIP.
-- *2023.07*: &nbsp;🎉🎉 One paper accepted to ICCV 2023.
-- *2023.05*: &nbsp;🎉🎉 One paper accepted to TVCG.
-- *2023.05*: &nbsp;🎉🎉 One paper accepted to IJCV.
-- *2023.01*: &nbsp;🎉🎉 One paper accepted to TPAMI.
+- *2024.05*: &nbsp;🎉🎉 One paper is accepted to TVCG.
+- *2024.03*: &nbsp;🎉🎉 Two papers are accepted to CVPR 2024.
+- *2023.12*: &nbsp;🎉🎉 One paper is accepted to AAAI 2024.
+- *2023.12*: &nbsp;🎉🎉 One paper is accepted to TIP.
+- *2023.07*: &nbsp;🎉🎉 One paper is accepted to ICCV 2023.
+- *2023.05*: &nbsp;🎉🎉 One paper is accepted to TVCG.
+- *2023.05*: &nbsp;🎉🎉 One paper is accepted to IJCV.
+- *2023.01*: &nbsp;🎉🎉 One paper is accepted to TPAMI.
 
 
 # 📝 Selected Publications 
