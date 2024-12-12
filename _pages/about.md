@@ -22,7 +22,9 @@ My research interests include virtual reality and computer vision with medical a
 
 
 # 🔥 News
-- *2024.05*: &nbsp;🎉🎉 One paper is accepted to TVCG.
+- *2024.12*: &nbsp;🎉🎉 One paper is accepted to AAAI 2025.
+- *2024.06*: &nbsp;🎉🎉 One paper is accepted to TMM.
+- *2024.05*: &nbsp;🎉🎉 Two papers are accepted to TVCG.
 - *2024.03*: &nbsp;🎉🎉 Two papers are accepted to CVPR 2024.
 - *2023.12*: &nbsp;🎉🎉 One paper is accepted to AAAI 2024.
 - *2023.12*: &nbsp;🎉🎉 One paper is accepted to TIP.
@@ -34,6 +36,40 @@ My research interests include virtual reality and computer vision with medical a
 
 # 📝 Selected Publications 
 [[Full list](https://scholar.google.com.hk/citations?hl=zh-CN&user=BDfZbbEAAAAJ)]
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='images/AAAI25.JPG' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[CtrlAvatar: Controllable Avatars Generation via Disentangled Invertible Networks](https://buaaswf.github.io/)
+
+**Wenfeng Song**, Yang Ding, Fei Hou, Shuai Li*, Aimin Hao, Xia Hou
+
+[**Github**](https://github.com/1211186431/CtrlAvatar) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TVCG</div><img src='images/Emotion.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Expressive 3D Facial Animation Generation Based on Local-to-global Latent Diffusion](https://ieeexplore.ieee.org/document/10670569)
+
+**Wenfeng Song**, Xuan Wang, Yiming Jiang, Shuai Li*, Aimin Hao, Xia Hou, Hong Qin
+
+[**Github**](https://github.com/wangxuanx/Face-Diffusion-Model) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TVCG</div><img src='images/TalkingStyle.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[TalkingStyle: Personalized Speech-Driven 3D Facial Animation with Style Preservation](https://ieeexplore.ieee.org/abstract/document/10555000)
+
+**Wenfeng Song**, Xuan Wang, Shi Zheng, Shuai Li*, Aimin Hao, Xia Hou
+
+[**Github**](https://github.com/wangxuanx/TalkingStyle) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/hoi.PNG' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -92,6 +128,8 @@ Shuai Li, Sisi Zhuang, **Wenfeng Song***, Xinyu Zhang, Hejia Chen, Aimin Hao
 
 </div>
 </div>
+
+
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TVCG</div><img src='images/FineStyle.png' alt="sym" width="100%"></div></div>
