@@ -135,7 +135,9 @@ Shuai Li, Sisi Zhuang, **Wenfeng Song***, Xinyu Zhang, Hejia Chen, Aimin Hao
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TVCG</div><img src='images/FineStyle.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Wenfeng Song**, Xingliang Jin, Shuai Li*, Chenglizhao Chen, Aimin Hao, Xia Hou. [FineStyle: Semantic-Aware Fine-Grained Motion Style Transfer with Dual Interactive-Flow Fusion](https://ieeexplore.ieee.org/abstract/document/10269731)[J]. IEEE Transactions on Visualization and Computer Graphics, 2023, 29(11): 4361-4371.
+[FineStyle: Semantic-Aware Fine-Grained Motion Style Transfer with Dual Interactive-Flow Fusion](https://ieeexplore.ieee.org/abstract/document/10269731)
+**Wenfeng Song**, Xingliang Jin, Shuai Li*, Chenglizhao Chen, Aimin Hao, Xia Hou.
+IEEE Transactions on Visualization and Computer Graphics, 2023, 29(11): 4361-4371.
 
 
 
