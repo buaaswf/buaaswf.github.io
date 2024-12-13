@@ -40,11 +40,11 @@ My research interests include virtual reality and computer vision with medical a
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='images/AAAI25.JPG' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[CtrlAvatar: Controllable Avatars Generation via Disentangled Invertible Networks](https://buaaswf.github.io/)
+[CtrlAvatar: Controllable Avatars Generation via Disentangled Invertible Networks.](https://buaaswf.github.io/)
 
-**Wenfeng Song**, Yang Ding, Fei Hou, Shuai Li*, Aimin Hao, Xia Hou
+**Wenfeng Song**, Yang Ding, Fei Hou, Shuai Li*, Aimin Hao, Xia Hou.
 
-AAAI Conference on Artificial Intelligence (AAAI), 2025
+AAAI Conference on Artificial Intelligence (AAAI), 2025.
 
 [**Github**](https://github.com/1211186431/CtrlAvatar) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 </div>
@@ -53,11 +53,11 @@ AAAI Conference on Artificial Intelligence (AAAI), 2025
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TVCG</div><img src='images/Emotion.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Expressive 3D Facial Animation Generation Based on Local-to-global Latent Diffusion](https://ieeexplore.ieee.org/document/10670569)
+[Expressive 3D Facial Animation Generation Based on Local-to-global Latent Diffusion.](https://ieeexplore.ieee.org/document/10670569)
 
-**Wenfeng Song**, Xuan Wang, Yiming Jiang, Shuai Li*, Aimin Hao, Xia Hou, Hong Qin
+**Wenfeng Song**, Xuan Wang, Yiming Jiang, Shuai Li*, Aimin Hao, Xia Hou, Hong Qin.
 
-IEEE Transactions on Visualization and Computer Graphics (TVCG), 2024, 30(11): 7397-7407
+IEEE Transactions on Visualization and Computer Graphics (TVCG), 2024, 30(11): 7397-7407.
 
 [**Github**](https://github.com/wangxuanx/Face-Diffusion-Model) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 </div>
@@ -66,9 +66,9 @@ IEEE Transactions on Visualization and Computer Graphics (TVCG), 2024, 30(11): 7
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TVCG</div><img src='images/TalkingStyle.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[TalkingStyle: Personalized Speech-Driven 3D Facial Animation with Style Preservation](https://ieeexplore.ieee.org/abstract/document/10555000)
+[TalkingStyle: Personalized Speech-Driven 3D Facial Animation with Style Preservation.](https://ieeexplore.ieee.org/abstract/document/10555000)
 
-**Wenfeng Song**, Xuan Wang, Shi Zheng, Shuai Li*, Aimin Hao, Xia Hou
+**Wenfeng Song**, Xuan Wang, Shi Zheng, Shuai Li*, Aimin Hao, Xia Hou.
 
 IEEE Transactions on Visualization and Computer Graphics (TVCG), 2024.
 
@@ -79,9 +79,9 @@ IEEE Transactions on Visualization and Computer Graphics (TVCG), 2024.
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/hoi.PNG' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[HOIAnimator: Generating Text-prompt Human-object Animations using Novel Perceptive Diffusion Models](https://openaccess.thecvf.com/content/CVPR2024/html/Song_HOIAnimator_Generating_Text-prompt_Human-object_Animations_using_Novel_Perceptive_Diffusion_Models_CVPR_2024_paper.html)
+[HOIAnimator: Generating Text-prompt Human-object Animations using Novel Perceptive Diffusion Models.](https://openaccess.thecvf.com/content/CVPR2024/html/Song_HOIAnimator_Generating_Text-prompt_Human-object_Animations_using_Novel_Perceptive_Diffusion_Models_CVPR_2024_paper.html)
 
-**Wenfeng Song**, Xinyu Zhang, Shuai Li*, Yang Gao, Aimin Hao, Xia Hou, Chenglizhao Chen, Ning Li, Hong Qin*
+**Wenfeng Song**, Xinyu Zhang, Shuai Li*, Yang Gao, Aimin Hao, Xia Hou, Chenglizhao Chen, Ning Li, Hong Qin*.
 
 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2024: 811-820.
 
@@ -92,9 +92,9 @@ IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2024: 811
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/MCM-LDM.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Arbitrary Motion Style Transfer with Multi-condition Motion Latent Diffusion Model](https://openaccess.thecvf.com/content/CVPR2024/html/Song_Arbitrary_Motion_Style_Transfer_with_Multi-condition_Motion_Latent_Diffusion_Model_CVPR_2024_paper.html)
+[Arbitrary Motion Style Transfer with Multi-condition Motion Latent Diffusion Model.](https://openaccess.thecvf.com/content/CVPR2024/html/Song_Arbitrary_Motion_Style_Transfer_with_Multi-condition_Motion_Latent_Diffusion_Model_CVPR_2024_paper.html)
 
-**Wenfeng Song**, Xingliang Jin, Shuai Li*, Chenglizhao Chen*, Aimin Hao, Xia Hou, Ning Li, Hong Qin
+**Wenfeng Song**, Xingliang Jin, Shuai Li*, Chenglizhao Chen*, Aimin Hao, Xia Hou, Ning Li, Hong Qin.
 
 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2024: 821-830.
 
@@ -106,9 +106,9 @@ IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2024: 821
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2024</div><img src='images/aaai.PNG' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Weakly Supervised Multimodal Affordance Grounding for Egocentric Images](https://ojs.aaai.org/index.php/AAAI/article/view/28451)
+[Weakly Supervised Multimodal Affordance Grounding for Egocentric Images.](https://ojs.aaai.org/index.php/AAAI/article/view/28451)
 
-Lingjing Xu, Yang Gao*, **Wenfeng Song***, Aimin Hao
+Lingjing Xu, Yang Gao*, **Wenfeng Song***, Aimin Hao.
 
 AAAI Conference on Artificial Intelligence (AAAI), 2024, 38(6): 6324-6332.
 
@@ -120,11 +120,11 @@ AAAI Conference on Artificial Intelligence (AAAI), 2024, 38(6): 6324-6332.
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIP</div><img src='images/tip23.PNG' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Rethinking Object Saliency Ranking: A Novel Whole-Flow Processing Paradigm](https://ieeexplore.ieee.org/abstract/document/10362980)
+[Rethinking Object Saliency Ranking: A Novel Whole-Flow Processing Paradigm.](https://ieeexplore.ieee.org/abstract/document/10362980)
 
-Mengke Song,  Linfeng Li, Dunquan Wu, **Wenfeng Song**, Chenglizhao Chen
+Mengke Song,  Linfeng Li, Dunquan Wu, **Wenfeng Song**, Chenglizhao Chen.
 
-IEEE Transactions on Image Processing (TIP), 2023, 33: 338-353
+IEEE Transactions on Image Processing (TIP), 2023, 33: 338-353.
 
 [**Github**](https://github.com/MengkeSong/Saliency-Ranking-Paradigm) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
@@ -134,11 +134,11 @@ IEEE Transactions on Image Processing (TIP), 2023, 33: 338-353
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2023</div><img src='images/iccv23.PNG' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Sequential texts driven cohesive motions synthesis with natural transitions](https://openaccess.thecvf.com/content/ICCV2023/html/Li_Sequential_Texts_Driven_Cohesive_Motions_Synthesis_with_Natural_Transitions_ICCV_2023_paper.html)
+[Sequential texts driven cohesive motions synthesis with natural transitions.](https://openaccess.thecvf.com/content/ICCV2023/html/Li_Sequential_Texts_Driven_Cohesive_Motions_Synthesis_with_Natural_Transitions_ICCV_2023_paper.html)
 
-Shuai Li, Sisi Zhuang, **Wenfeng Song***, Xinyu Zhang, Hejia Chen, Aimin Hao
+Shuai Li, Sisi Zhuang, **Wenfeng Song***, Xinyu Zhang, Hejia Chen, Aimin Hao.
 
-IEEE/CVF International Conference on Computer Vision (ICCV), 2023: 9498-9508
+IEEE/CVF International Conference on Computer Vision (ICCV), 2023: 9498-9508.
 
 [**Github**](https://github.com/Druthrie/ST2M) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
@@ -151,7 +151,7 @@ IEEE/CVF International Conference on Computer Vision (ICCV), 2023: 9498-9508
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TVCG</div><img src='images/FineStyle.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[FineStyle: Semantic-Aware Fine-Grained Motion Style Transfer with Dual Interactive-Flow Fusion](https://ieeexplore.ieee.org/abstract/document/10269731)
+[FineStyle: Semantic-Aware Fine-Grained Motion Style Transfer with Dual Interactive-Flow Fusion.](https://ieeexplore.ieee.org/abstract/document/10269731)
 
 **Wenfeng Song**, Xingliang Jin, Shuai Li*, Chenglizhao Chen, Aimin Hao, Xia Hou.
 
@@ -167,11 +167,11 @@ IEEE Transactions on Visualization and Computer Graphics, 2023, 29(11): 4361-437
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCV</div><img src='images/ijcv24.PNG' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Automatic generation of 3d scene animation based on dynamic knowledge graphs and contextual encoding](https://link.springer.com/article/10.1007/s11263-023-01839-1)
+[Automatic generation of 3d scene animation based on dynamic knowledge graphs and contextual encoding.](https://link.springer.com/article/10.1007/s11263-023-01839-1)
 
-**Wenfeng Song**, Xinyu Zhang, Yuting Guo, Shuai Li*, Aimin Hao, Hong Qin*
+**Wenfeng Song**, Xinyu Zhang, Yuting Guo, Shuai Li*, Aimin Hao, Hong Qin*.
 
-International Journal of Computer Vision (IJCV), 2023, 131(11): 2816-2844
+International Journal of Computer Vision (IJCV), 2023, 131(11): 2816-2844.
 
 [**Github**](https://github.com/ZxyLinkstart/Automatic-Generation-of-3D-Scene-Animation) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
@@ -182,9 +182,9 @@ International Journal of Computer Vision (IJCV), 2023, 131(11): 2816-2844
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI</div><img src='images/tpami23.PNG' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Graph Diffusion Convolutional Network for Skeleton Based Semantic Recognition of Two-Person Actions](https://ieeexplore.ieee.org/abstract/document/10023982)
+[Graph Diffusion Convolutional Network for Skeleton Based Semantic Recognition of Two-Person Actions.](https://ieeexplore.ieee.org/abstract/document/10023982)
 
-Shuai Li, Xinxue He, **Wenfeng Song***, Aimin Hao, Hong Qin
+Shuai Li, Xinxue He, **Wenfeng Song***, Aimin Hao, Hong Qin.
 
 IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2023, 45(7): 8477-8493.
 
@@ -196,11 +196,11 @@ IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2023, 45
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">PR</div><img src='images/PR24.PNG' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Dynamic attention augmented graph network for video accident anticipation](https://www.sciencedirect.com/science/article/abs/pii/S0031320323007689)
+[Dynamic attention augmented graph network for video accident anticipation.](https://www.sciencedirect.com/science/article/abs/pii/S0031320323007689)
 
-**Wenfeng Song**, Shuai Li*, Tao Chang, Ke Xie, Aimin Hao, Hong Qin
+**Wenfeng Song**, Shuai Li*, Tao Chang, Ke Xie, Aimin Hao, Hong Qin.
 
-Pattern Recognition (PR), 2024, 147: 110071
+Pattern Recognition (PR), 2024, 147: 110071.
 
 [**Github**](https://github.com/ZxyLinkstart/DAA-GNN) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
@@ -210,11 +210,11 @@ Pattern Recognition (PR), 2024, 147: 110071
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMM</div><img src='images/tmm23.PNG' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Joints-Centered Spatial-Temporal Features Fused Skeleton Convolution Network for Action Recognition](https://ieeexplore.ieee.org/abstract/document/10287687)
+[Joints-Centered Spatial-Temporal Features Fused Skeleton Convolution Network for Action Recognition.](https://ieeexplore.ieee.org/abstract/document/10287687)
 
-**Wenfeng Song**, Tangli Chu, Shuai Li*, Nannan Li, Aimin Hao, Hong Qin
+**Wenfeng Song**, Tangli Chu, Shuai Li*, Nannan Li, Aimin Hao, Hong Qin.
 
-IEEE Transactions on Multimedia (TMM), 2023, 26: 4602-4616
+IEEE Transactions on Multimedia (TMM), 2023, 26: 4602-4616.
 
 [**Github**]() <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
@@ -224,11 +224,11 @@ IEEE Transactions on Multimedia (TMM), 2023, 26: 4602-4616
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIP</div><img src='images/tip19.PNG' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Context-interactive CNN for person re-identification](https://ieeexplore.ieee.org/abstract/document/8907836)
+[Context-interactive CNN for person re-identification.](https://ieeexplore.ieee.org/abstract/document/8907836)
 
-**Wenfeng Song**, Shuai Li, Tao Chang, Aimin Hao, Qinping Zhao, Hong Qin
+**Wenfeng Song**, Shuai Li, Tao Chang, Aimin Hao, Qinping Zhao, Hong Qin.
 
-IEEE Transactions on Image Processing (TIP), 2019, 29: 2860-2874
+IEEE Transactions on Image Processing (TIP), 2019, 29: 2860-2874.
 
 [**Github**]() <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
